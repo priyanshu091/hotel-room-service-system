@@ -81,7 +81,7 @@ Hotel Room Service Management System
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/hotel-room-service.git
+git clone https://github.com/priyanshu091/hotel-room-service.git
 ```
 
 2. Open in IntelliJ IDEA
